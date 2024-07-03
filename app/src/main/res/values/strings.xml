@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="aText">A</string>
+    <string name="bText">B</string>
+    <string name="cText">C</string>
+    <string name="dText">D</string>
+    <string name="eText">E</string>
+    <string name="fText">F</string>
+    <string name="gText">G</string>
+    <string name="hText">H</string>
+    <string name="iText">I</string>
+    <string name="jText">J</string>
+    <string name="kText">K</string>
+    <string name="lText">L</string>
+    <string name="mText">M</string>
+    <string name="nText">N</string>
+    <string name="oText">O</string>
+    <string name="pText">P</string>
+    <string name="qText">Q</string>
+    <string name="rText">R</string>
+    <string name="sText">S</string>
+    <string name="tText">T</string>
+    <string name="uText">U</string>
+    <string name="vText">V</string>
+    <string name="wText">W</string>
+    <string name="xText">X</string>
+    <string name="yText">Y</string>
+    <string name="zText">Z</string>
+    <string name="round">Round 0</string>
+    <string name="paused">Paused</string>
+    <string name="gameOver">Game Over!</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="mainMenu">Main Menu</string>
+    <string name="correctGuess">Correct Guess!</string>
+    <string name="nextRound">Next Round</string>
+    <string name="gameOverDescription">The word was</string>
+    <string name="winDescription">The word is</string>
+
+</resources>
